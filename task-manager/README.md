@@ -69,14 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+##ScreenShots:
 
-## Screenshots
+## Screenshot 1: Main Page
+![Main Page](public/images/Home.png)
 
-### Screenshot 1: Main Page
-![Main Page](./components/assets/Home.png)
+## Screenshot 2: Adding a New Task
+![Adding Task](public/images/Add.png)
 
-### Screenshot 2: Adding a New Task
-![Adding Task](./components/assets/Add.png)
-
-### Screenshot 2: Search a Task
-![Adding Task](./components/assets/Search.png)
+## Screenshot 3: Search a Task
+![Search Task](public/images/Search.png)
