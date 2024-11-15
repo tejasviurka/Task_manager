@@ -14,19 +14,20 @@ npm run eject
 Note: This is a one-way operation. Once you eject, you can’t go back! This command removes the build dependency and gives you full control over configuration files.
 
 
-![Screenshot 1: Main Page](public/assets/Home.png)
+##Screenshots:
 
 ### Screenshot 1: Main Page
 This is the main page of the application.
+![Home](https://github.com/user-attachments/assets/3eac24f8-46f0-457e-8bc1-ffa55ebdd6a3)
 
-![Screenshot 2: Adding a New Task](public/assets/Add.png)
 
 ### Screenshot 2: Adding Task
 This is the page where you can add new tasks.
+![Add](https://github.com/user-attachments/assets/d02abfd8-117d-47b2-ac81-39377f9e49d2)
 
-![Screenshot 3: Search a Task](public/assets/Search.png)
 
 ### Screenshot 3: Search Task
 This is the page where you can search for tasks.
-![Home](https://github.com/user-attachments/assets/a963117a-53ce-4c8f-9563-9f922da5f105)
+![Search](https://github.com/user-attachments/assets/7bc87242-a325-435a-a885-c1ddf17b2669)
+
 
