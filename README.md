@@ -12,3 +12,14 @@ Builds the app for production to the build folder. It correctly bundles React in
 
 npm run eject
 Note: This is a one-way operation. Once you eject, you can’t go back! This command removes the build dependency and gives you full control over configuration files.
+
+## Screenshots
+
+### Screenshot 1: Main Page
+![Main Page](assets/Home.png)
+
+### Screenshot 2: Adding a New Task
+![Adding Task](assets/Add.png)
+
+### Screenshot 2: Search a Task
+![Adding Task](assets/Search.png)
