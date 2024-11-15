@@ -28,3 +28,5 @@ This is the page where you can add new tasks.
 
 ### Screenshot 3: Search Task
 This is the page where you can search for tasks.
+![Home](https://github.com/user-attachments/assets/a963117a-53ce-4c8f-9563-9f922da5f105)
+
