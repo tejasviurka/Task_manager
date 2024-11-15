@@ -16,10 +16,10 @@ Note: This is a one-way operation. Once you eject, you can’t go back! This com
 ## Screenshots
 
 ### Screenshot 1: Main Page
-![Main Page](./components/assets/Home.png)
+![Main Page](src/components/assets/Home.png)
 
 ### Screenshot 2: Adding a New Task
-![Adding Task](./components/assets/Add.png)
+![Adding Task](src/components/assets/Add.png)
 
 ### Screenshot 2: Search a Task
-![Adding Task](./components/assets/Search.png)
+![Adding Task](src/components/assets/Search.png)
