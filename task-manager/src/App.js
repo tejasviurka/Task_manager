@@ -4,20 +4,20 @@ import TaskList from "./components/TaskList";
 import TaskSearch from "./components/TaskSearch";
 import './App.css';
 
-
 const App = () => {
   const [tasks, setTasks] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
 
-  useEffect(() => {
-    const savedTasks = JSON.parse(localStorage.getItem("tasks")) || [];
-    setTasks(savedTasks);
-  }, []);
+  // Commented out the localStorage code
+  // useEffect(() => {
+  //   const savedTasks = JSON.parse(localStorage.getItem("tasks")) || [];
+  //   setTasks(savedTasks);
+  // }, []);
 
-  // Save tasks to local storage
-  useEffect(() => {
-    localStorage.setItem("tasks", JSON.stringify(tasks));
-  }, [tasks]);
+  // Commented out the code to save tasks to localStorage
+  // useEffect(() => {
+  //   localStorage.setItem("tasks", JSON.stringify(tasks));
+  // }, [tasks]);
 
   const addTask = (title) => {
     const newTask = { id: Date.now(), title };
